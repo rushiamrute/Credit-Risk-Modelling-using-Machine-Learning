@@ -5,7 +5,7 @@ This project applies machine learning techniques to assess and predict credit ri
 
 **The workflow consists of several steps**
 
-.**Data Collection & Preprocessing:**.
+1.**Data Collection & Preprocessing:**.
 The project begins with the cleaning and preprocessing of raw data, which involves handling missing values, outlier detection, and dealing with data imbalance. The dataset includes various features related to the applicant’s profile, such as income, loan amount, credit history, and past loan outcomes.
 
 .**Exploratory Data Analysis (EDA):**.
